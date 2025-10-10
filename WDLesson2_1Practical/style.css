@@ -46,6 +46,6 @@ Hint:  You can specify several CSS rules for one element by separating the rules
 
 div{
     background-color: blue;
-    color: aliceblue;
+    color: rgb(238, 238, 238);
     font-weight: bold;
   }
