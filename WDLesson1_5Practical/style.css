@@ -3,3 +3,7 @@ div, span{
     padding:10px;
     margin:10px;
 }
+
+body{
+    background-color: aqua;
+}
