@@ -6,7 +6,7 @@ img{
 }
 
 /* Challenge 5: Change the width of the image with an id of "banner" to 95% */
-#{
+#banner{
     width: 95%;
 }
 
@@ -29,13 +29,13 @@ img{
 
 #logoContainer{
 
-    align-items: center;
+    text-align: center;
 }
 
 /* Challenge 8: Change the height of all images with a class of "logo" to 200px*/
 
 .logo{
-        height: 200
+        height: 200px
         ;
 }
 
