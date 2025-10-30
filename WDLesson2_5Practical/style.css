@@ -27,10 +27,10 @@
 /* Challenge 12: When the visitor moves their mouse over images inside of the element with an id of firstGallery,
                  apply some type of styling using the filter( ) effect
 */
-                 #firstGallery{
+                #firstGallery img{
                 filter: grayscale(100%);
         }
-                #firstGallery :hover{
+                #firstGallery img:hover{
                         filter:  none;
                 }
 
@@ -41,7 +41,7 @@
         #secondGallery img{
                 filter: grayscale(100%);
         }
-                #secondGallery :hover img{
+                #secondGallery img:hover{
                         filter:  none;
                 }
 
